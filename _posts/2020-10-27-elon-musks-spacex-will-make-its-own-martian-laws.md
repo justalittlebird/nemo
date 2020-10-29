@@ -3,7 +3,7 @@ layout: post
 title:  "Elon Musk's spacex will make its own martian laws"
 author: alien
 categories: [ Tech ]
-image: assets/pics/20201029_001.jpg.jpg
+image: assets/pics/20201029_001.jpg
 tags: [SpaceX, Mar, Elon Musk]
 ---
 
